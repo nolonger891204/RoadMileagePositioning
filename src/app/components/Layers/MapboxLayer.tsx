@@ -34,4 +34,4 @@ const MapBoxLayer: React.FC<MapBoxLayerProps> = ({ name, zIndex = 0 }) => {
   return null;
 }
 
-export default MapBoxLayer;
+export { MapBoxLayer };

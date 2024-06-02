@@ -4,7 +4,10 @@ import React, { useContext } from "react";
 import { fromLonLat, toLonLat } from "ol/proj";
 import { Map } from "@/app/components/Map/Map";
 // import { Layers, MapBoxLayer, VectorLayer } from "@/app/components/Layers";
-import { Layers, MapBoxLayer } from "@/app/components/Layers";
+// import { Layers, MapBoxLayer } from "@/app/components/Layers";
+import { Layers } from "@/app/components/Layers/Layers";
+import { MapBoxLayer } from "@/app/components/Layers/MapboxLayer";
+
 import { MapContext } from "@/app/components/hook/MapContext";
 
 // import Geolocation from 'ol/Geolocation.js';

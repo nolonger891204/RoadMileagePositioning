@@ -1,3 +1,5 @@
+"use client";
+
 import React, { ReactNode } from "react";
 
 interface LayersProps {
@@ -8,4 +10,4 @@ const Layers: React.FC<LayersProps> = ({ children }) => {
   return <>{children}</>;
 };
 
-export default Layers;
+export { Layers };
