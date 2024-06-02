@@ -18,11 +18,10 @@ const MapBoxLayer: React.FC<MapBoxLayerProps> = ({ name, zIndex = 0 }) => {
     if (!map) return;
     let vectorLayer = new MapboxVectorLayer({
       styleUrl: 'mapbox://styles/tinglong/ckyn5bs5300qb15o4lf1broft',
-      accessToken:
-        'pk.eyJ1IjoidGluZ2xvbmciLCJhIjoiY2t5bjViOTg4MnRueDMzcWh6MXdyc2ZneSJ9.aOZ26FMqwm5KU6NV7Ucg-A',
+      accessToken: process.env.MAPBOX_ACCESS_TOKEN,
       name
     });
-    
+
     map.addLayer(vectorLayer);
     vectorLayer.setZIndex(zIndex);
     return () => {
