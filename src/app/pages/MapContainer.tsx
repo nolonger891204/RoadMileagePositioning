@@ -1,59 +1,81 @@
 "use client";
 
-import React, { useContext } from "react";
-import { fromLonLat, toLonLat } from "ol/proj";
+import React, { useContext, useEffect, useState } from "react";
+import { fromLonLat, toLonLat, transform } from "ol/proj";
 import { Map } from "@/app/components/Map/Map";
 // import { Layers, MapBoxLayer, VectorLayer } from "@/app/components/Layers";
 // import { Layers, MapBoxLayer } from "@/app/components/Layers";
 import { Layers } from "@/app/components/Layers/Layers";
 import { MapBoxLayer } from "@/app/components/Layers/MapboxLayer";
+import { OpenStreetMapLayer } from "@/app/components/Layers/OpenStreetMapLayer";
+import { VectorLayer } from "@/app/components/Layers/VectorLayer";
 
+import { Vector } from "ol/source";
+import { Style, Icon, Circle, Fill, Stroke } from 'ol/style';
+import { Point } from "ol/geom";
+import { Feature } from "ol";
+import GeoJSON from 'ol/format/GeoJSON';
 import { MapContext } from "@/app/components/hook/MapContext";
-
-// import Geolocation from 'ol/Geolocation.js';
-// import Feature from "ol/Feature";
-// import Point from "ol/geom/Point";
-// import { Icon, Circle as CircleStyle, Style, Fill, Stroke } from "ol/style";
-// import { vector } from "../components/Sources";
-// import MapContext from "../hook/MapContext";
-// import GeoJSON from "ol/format/GeoJSON";
-// import PinGreen from './../assets/pin_green.svg';
-// import { spots } from "../assets/spot";
+import HW from "@/app/assets/HW.json";
+import measureStations from "@/app/assets/measureStations.json";
+import VectorSource from "ol/source/Vector";
 
 const MapContainer = () => {
-    const { mapView, setMapView } = useContext(MapContext);
+    const { feature } = useContext(MapContext);
 
     return (
-        <div id="map_container"
-        style={{
-            height: "500px",
-            width: "100%",
-            borderRadius: "5px",
-            overflow: "hidden",
-        }}
-        >
+        <div id="map_container" className="h-full w-full rounded-lg overflow-hidden">
             <Map>
                 <Layers>
-                    <MapBoxLayer name={"basemap_mapbox"} zIndex={1} />
-                    {/* <VectorLayer 
-                        name={"feature"} 
-                        source={vector({
-                        features: new GeoJSON().readFeatures(recordGeojsonObject, { featureProjection: 'EPSG:3857' }),
-                        })}
-                        style={
-                        new Style({
-                            image: new Icon({
-                            anchor: [0.5, 16],
-                            anchorXUnits: 'fraction',
-                            anchorYUnits: 'pixels',
-                            width: 40,
-                            height: 40,
-                            src: PinGreen,
+                    <OpenStreetMapLayer name={"basemap_mapbox"} zIndex={2} />
+                    <VectorLayer 
+                        name={"base_feature"}
+                        source={
+                            new VectorSource({
+                                features: new GeoJSON({
+                                    defaultDataProjection: 'EPSG:4326',
+                                    featureProjection: 'EPSG:3857'
+                                }).readFeatures(HW)
                             })
-                        })
                         }
-                        zIndex={1} 
-                    /> */}
+
+                        style={
+                            new Style({
+                                stroke: new Stroke({
+                                    color: 'rgba(255,255,0,0.5)',
+                                    width: 5,
+                                }),
+                            })
+                        }
+                        zIndex={10} 
+                    />
+                    { feature ? 
+                        <VectorLayer 
+                            name={"feature"} 
+                            source={
+                                new Vector({
+                                    features: [feature],
+                                })
+                            }
+                            style={
+                                new Style({
+                                    image: new Circle({
+                                        radius: 8, // Adjust the radius as needed
+                                        fill: new Fill({
+                                            color: 'red', // Set fill color to red
+                                        }),
+                                        stroke: new Stroke({
+                                            color: 'black', // Set stroke color to black
+                                            width: 2, // Set stroke width
+                                        }),
+                                    })
+                                })
+                            }
+                            zIndex={99} 
+                        />:
+                        <></>
+                    }
+
                 </Layers>
             </Map>
         </div>

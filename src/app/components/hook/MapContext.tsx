@@ -1,6 +1,8 @@
 "use client";
 
 import React, { createContext, useState, useRef } from 'react';
+import {fromLonLat} from 'ol/proj';
+import { Feature } from 'ol';
 
 // Create the context with initial values
 export const MapContext = createContext({
@@ -8,6 +10,7 @@ export const MapContext = createContext({
   mapRef: null,
   zoom: 0,
   center: [0, 0],
+  feature: null,
   setCenter: () => {},
   setMap: () => {},
   setZoom: () => {},
@@ -20,9 +23,9 @@ export const MapContext = createContext({
 export const MapProvider = ({ children }) => {
   const [map, setMap] = useState<any>(null);
   const mapRef = useRef<any>(null);
-  const [zoom, setZoom] = useState<number>(0);
-  const [center, setCenter] = useState<[number, number]>([0, 0]);
-  const [feature, setFeature] = useState<any>(null);
+  const [zoom, setZoom] = useState<number>(13);
+  const [center, setCenter] = useState<[number, number]>(fromLonLat([121.56783529839825, 25.070623499178023]));
+  const [feature, setFeature] = useState<any>(new Feature());
   const [extent, setExtent] = useState<any>(null);
 
   return (
@@ -32,6 +35,7 @@ export const MapProvider = ({ children }) => {
         mapRef,
         zoom,
         center,
+        feature,
         setCenter,
         setMap,
         setZoom,

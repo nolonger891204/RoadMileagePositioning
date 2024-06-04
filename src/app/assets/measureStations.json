@@ -1,0 +1,1484 @@
+{
+    "0": {
+        "name": "\u570b1",
+        "mile": "017K+600",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    309227.1670381604,
+                    2773245.189968043
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    309211.10049999884,
+                    2773231.1717000008
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "1": {
+        "name": "\u570b1",
+        "mile": "017K+700",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    309135.7548952541,
+                    2773285.722466202
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    309127.9415432704,
+                    2773268.087813246
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "2": {
+        "name": "\u570b1",
+        "mile": "017K+800",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    309044.2511027132,
+                    2773326.114843142
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    309036.9893814552,
+                    2773310.2538928012
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "3": {
+        "name": "\u570b1",
+        "mile": "017K+900",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    308953.1547274518,
+                    2773367.06613481
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    308946.0215306228,
+                    2773350.9923571553
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "4": {
+        "name": "\u570b1",
+        "mile": "018K+000",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    308861.8530188298,
+                    2773408.029445743
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    308854.1960810458,
+                    2773390.558502349
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "5": {
+        "name": "\u570b1",
+        "mile": "018K+100",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    308769.87509113736,
+                    2773447.057178015
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    308763.0050607899,
+                    2773432.4140995475
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "6": {
+        "name": "\u570b1",
+        "mile": "018K+200",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    308673.0700071704,
+                    2773475.7020532163
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            },
+            {
+                "geometry": [
+                    308678.39311981166,
+                    2773487.8406364187
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            }
+        ]
+    },
+    "7": {
+        "name": "\u570b1",
+        "mile": "018K+300",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    308580.9966778813,
+                    2773514.1635374823
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            },
+            {
+                "geometry": [
+                    308585.9013311749,
+                    2773526.268398433
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            }
+        ]
+    },
+    "8": {
+        "name": "\u570b1",
+        "mile": "018K+400",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    308488.1948441589,
+                    2773550.868453688
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            },
+            {
+                "geometry": [
+                    308492.3696266842,
+                    2773562.4628409557
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            }
+        ]
+    },
+    "9": {
+        "name": "\u570b1",
+        "mile": "018K+500",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    308397.94485578855,
+                    2773595.8366530235
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    308393.6935353238,
+                    2773583.1716971262
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "10": {
+        "name": "\u570b1",
+        "mile": "018K+600",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    308298.92217334005,
+                    2773614.700108018
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            },
+            {
+                "geometry": [
+                    308302.5325751858,
+                    2773626.4945385032
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            }
+        ]
+    },
+    "11": {
+        "name": "\u570b1",
+        "mile": "018K+700",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    308203.2037069687,
+                    2773642.8305761465
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            },
+            {
+                "geometry": [
+                    308206.41371697804,
+                    2773654.3634080268
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            }
+        ]
+    },
+    "12": {
+        "name": "\u570b1",
+        "mile": "018K+800",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    308109.431132395,
+                    2773679.5452608946
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    308106.5505301621,
+                    2773667.904838237
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "13": {
+        "name": "\u570b1",
+        "mile": "018K+900",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    308011.9668034315,
+                    2773702.3775632153
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    308009.1581958984,
+                    2773690.012711931
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "14": {
+        "name": "\u570b1",
+        "mile": "019K+000",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    307913.6495140436,
+                    2773721.691700835
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    307911.4879102466,
+                    2773710.3914022064
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "15": {
+        "name": "\u570b1",
+        "mile": "019K+100",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    307815.0313600588,
+                    2773739.1756110513
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    307813.12600563886,
+                    2773727.483262784
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "16": {
+        "name": "\u570b1",
+        "mile": "019K+200",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    307714.3901952755,
+                    2773741.545232958
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            },
+            {
+                "geometry": [
+                    307715.81886164885,
+                    2773753.139649875
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            }
+        ]
+    },
+    "17": {
+        "name": "\u570b1",
+        "mile": "019K+300",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    307615.1163050854,
+                    2773753.0492899497
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            },
+            {
+                "geometry": [
+                    307616.3473660303,
+                    2773764.732126701
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            }
+        ]
+    },
+    "18": {
+        "name": "\u570b1",
+        "mile": "019K+400",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    307516.4893802566,
+                    2773772.963805422
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    307515.70767719625,
+                    2773760.706818744
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "19": {
+        "name": "\u570b1",
+        "mile": "019K+500",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    307416.4775991607,
+                    2773778.766649679
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    307416.01329941227,
+                    2773765.7753012804
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "20": {
+        "name": "\u570b1",
+        "mile": "019K+600",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    307316.42381620203,
+                    2773781.187539008
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    307316.21193026437,
+                    2773768.682053247
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "21": {
+        "name": "\u570b1",
+        "mile": "019K+700",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    307216.30740910524,
+                    2773781.0433895416
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    307216.5335596773,
+                    2773769.318278258
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "22": {
+        "name": "\u570b1",
+        "mile": "019K+800",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    307116.28300244675,
+                    2773779.416225337
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    307116.4756204498,
+                    2773767.071486862
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "23": {
+        "name": "\u570b1",
+        "mile": "019K+900",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    307016.296062673,
+                    2773777.5945381704
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    307016.59994103975,
+                    2773765.1764215333
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "24": {
+        "name": "\u570b1",
+        "mile": "020K+000",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    306916.41153898096,
+                    2773776.080261435
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    306916.37768419087,
+                    2773763.0628145244
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "25": {
+        "name": "\u570b1",
+        "mile": "020K+100",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    306816.7699758752,
+                    2773778.799396816
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    306816.18926920363,
+                    2773765.8806412593
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "26": {
+        "name": "\u570b1",
+        "mile": "020K+200",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    306718.15869683615,
+                    2773790.558773928
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    306715.5986213643,
+                    2773776.5994741726
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "27": {
+        "name": "\u570b1",
+        "mile": "020K+300",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    306621.2069656931,
+                    2773811.3768464914
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    306617.61683105235,
+                    2773799.0864531854
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "28": {
+        "name": "\u570b1",
+        "mile": "020K+400",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    306526.22757659573,
+                    2773841.358712423
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    306521.5100662882,
+                    2773829.092079186
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "29": {
+        "name": "\u570b1",
+        "mile": "020K+500",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    306432.9012477049,
+                    2773877.118708078
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    306428.53387560754,
+                    2773866.1231666654
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "30": {
+        "name": "\u570b1",
+        "mile": "020K+600",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    306339.5796478367,
+                    2773913.2371702343
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    306335.1003716061,
+                    2773901.2423330476
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "31": {
+        "name": "\u570b1",
+        "mile": "020K+700",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    306244.0509899058,
+                    2773944.2940760544
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    306240.29060696537,
+                    2773931.1023420217
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "32": {
+        "name": "\u570b1",
+        "mile": "020K+800",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    306146.1000118453,
+                    2773967.3486340693
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    306144.2754001376,
+                    2773956.3694217866
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "33": {
+        "name": "\u570b1",
+        "mile": "020K+900",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    306046.5690040932,
+                    2773980.2638272783
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    306045.9106339767,
+                    2773969.838936673
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "34": {
+        "name": "\u570b1",
+        "mile": "021K+000",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    305946.45897855837,
+                    2773985.2282687635
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    305946.2777661986,
+                    2773973.4869206552
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "35": {
+        "name": "\u570b1",
+        "mile": "021K+100",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    305846.45460879005,
+                    2773986.4599217065
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    305846.29127934907,
+                    2773975.193288446
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "36": {
+        "name": "\u570b1",
+        "mile": "021K+200",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    305746.5006041287,
+                    2773987.70490477
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    305746.2868322905,
+                    2773977.234822613
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "37": {
+        "name": "\u570b1",
+        "mile": "021K+300",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    305646.4953480958,
+                    2773989.2940559187
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    305646.3041617364,
+                    2773979.148678554
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "38": {
+        "name": "\u570b1",
+        "mile": "021K+400",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    305546.48162438837,
+                    2773990.341277973
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    305546.31221158465,
+                    2773981.3428961695
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "39": {
+        "name": "\u570b1",
+        "mile": "021K+500",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    305446.5699189723,
+                    2773991.999416508
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    305446.3432046683,
+                    2773983.6354212244
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "40": {
+        "name": "\u570b1",
+        "mile": "021K+600",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    305346.6082020033,
+                    2773995.4838061836
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    305346.3968572174,
+                    2773985.692776392
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "41": {
+        "name": "\u570b1",
+        "mile": "021K+700",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    305246.4049682016,
+                    2773987.447879786
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            },
+            {
+                "geometry": [
+                    305246.6326865315,
+                    2773998.048776846
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            }
+        ]
+    },
+    "42": {
+        "name": "\u570b1",
+        "mile": "021K+800",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    305146.5556519105,
+                    2773999.316436123
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    305146.4421879783,
+                    2773989.0870594564
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "43": {
+        "name": "\u570b1",
+        "mile": "021K+900",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    305046.5497385203,
+                    2773999.927206572
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    305046.4545685633,
+                    2773990.432453727
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "44": {
+        "name": "\u570b1",
+        "mile": "022K+000",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    304946.63836019574,
+                    2774001.8562402697
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    304946.448724217,
+                    2773992.070412518
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "45": {
+        "name": "\u570b1",
+        "mile": "022K+100",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    304846.6118677953,
+                    2774003.985902755
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    304846.4569308826,
+                    2773993.8224171335
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "46": {
+        "name": "\u570b1",
+        "mile": "022K+200",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    304746.66267549584,
+                    2774005.5634316565
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    304746.48490267235,
+                    2773995.3360447586
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "47": {
+        "name": "\u570b1",
+        "mile": "022K+300",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    304646.5012330145,
+                    2773996.8334662123
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            },
+            {
+                "geometry": [
+                    304646.8615612654,
+                    2774009.163026155
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            }
+        ]
+    },
+    "48": {
+        "name": "\u570b1",
+        "mile": "022K+400",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    304546.5336730628,
+                    2773998.232727312
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            },
+            {
+                "geometry": [
+                    304546.6647546048,
+                    2774013.0469018747
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            }
+        ]
+    },
+    "49": {
+        "name": "\u570b1",
+        "mile": "022K+500",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    304446.89975811954,
+                    2773997.0188398366
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            },
+            {
+                "geometry": [
+                    304445.9979317431,
+                    2774011.5798971667
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            }
+        ]
+    },
+    "50": {
+        "name": "\u570b1",
+        "mile": "022K+600",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    304347.3448844269,
+                    2773989.624022628
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            },
+            {
+                "geometry": [
+                    304346.00773323944,
+                    2774002.0490525565
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            }
+        ]
+    },
+    "51": {
+        "name": "\u570b1",
+        "mile": "022K+700",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    304248.70119075844,
+                    2773975.6417215005
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            },
+            {
+                "geometry": [
+                    304246.80912157847,
+                    2773988.3391957413
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            }
+        ]
+    },
+    "52": {
+        "name": "\u570b1",
+        "mile": "022K+800",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    304147.8800711155,
+                    2773973.84322989
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    304200.0771999996,
+                    2773968.3066999996
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "53": {
+        "name": "\u570b1",
+        "mile": "022K+900",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    304048.83485595917,
+                    2773959.716047967
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    304200.0771999996,
+                    2773968.3066999996
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "54": {
+        "name": "\u570b1",
+        "mile": "023K+000",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    303949.9726788075,
+                    2773945.5715603954
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    304200.0771999996,
+                    2773968.3066999996
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "55": {
+        "name": "\u570b1",
+        "mile": "023K+100",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    303851.25280834234,
+                    2773933.7557961014
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    304200.0771999996,
+                    2773968.3066999996
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    },
+    "56": {
+        "name": "\u570b1",
+        "mile": "023K+200",
+        "nearest_points_on_road": [
+            {
+                "geometry": [
+                    303755.6201999986,
+                    2773934.745200001
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 1,
+                "road_direction": "S"
+            },
+            {
+                "geometry": [
+                    304200.0771999996,
+                    2773968.3066999996
+                ],
+                "road_name": "\u570b1",
+                "road_alia": "\u4e2d\u5c71\u9ad8\u901f\u516c\u8def",
+                "road_id": 0,
+                "road_direction": "N"
+            }
+        ]
+    }
+}

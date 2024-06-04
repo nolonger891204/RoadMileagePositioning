@@ -31,3 +31,9 @@ body {
     text-wrap: balance;
   }
 }
+
+.CodeMirror {
+  height: 100% !important; 
+  width: 100%;
+  border-radius: 0.75rem;
+}
